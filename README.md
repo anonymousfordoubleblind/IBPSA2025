@@ -1,7 +1,5 @@
 # Empatica E4 and Pico Neo Pro 3 Eye VR Headset: A Guide to Physiological and Fixation Point Data Processing
 
-[![https://zenodo.org/badge/doi/10.5281/zenodo.4091318.svg](https://zenodo.org/badge/DOI/10.5281/zenodo.11466750.svg)](https://doi.org/10.5281/zenodo.11466750)
-
 ***Summary***:
 This repository serves as a  guide for exploring the relationship between attention, stress, arousal, autonomic nervous system behavior, and various physiological indicators using the Pico Neo Pro 3 Eye VR headset and the Empatica E4 wearable device. It provides a detailed workflow, including the necessary scripts and instructions, to enable replication and adaptation of the analysis for different experimental setups and VR headsets.
 
@@ -111,6 +109,3 @@ Copyright (C) 2016 Mathias Benedek and Christian Kaernbach
 ***Reference***: J. K. Haas, “A History of the Unity Game Engine,” Worcester Polytechnic Institute, Tech. Rep., 2014.
 
 Copyright (C) Unity Technologies ApS ("Unity")
-
-### Acknowledgements
-This work was funded by EPFL and the Swiss National Science Foundation (SNSF Grant #200021_197178) as part of the research project entitled "Outside seen from inside out: Impact of views and daylight composition on our visual experience."
