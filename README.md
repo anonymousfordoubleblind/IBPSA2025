@@ -92,7 +92,6 @@ This will be the time difference between the first point and the last
 Or: `T2 - T1` where `T1` is the very first point and `T2` the very last
 
 ## License, Copyrights and Acknowledgements
-### Copyright (c) 2024 Yunni Cho, EPFL
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License
 as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
